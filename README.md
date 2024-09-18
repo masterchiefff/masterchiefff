@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @masterchiefff
-- 👀 I’m interested in web design
-- 🌱 I’m currently learning django
+- 👀 I’m interested in web3
+- 🌱 I’m currently learning Rust
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me here
 
